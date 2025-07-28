@@ -29,7 +29,7 @@ Detta projekt skapades som en del av mina studier på Medieinstitutet, och anvä
 
 ## 🌐 Live-demo
 
-👉 [Testa appen här](https://dindemo.netlify.app)
+👉 [Testa appen här](https://todo-list-fridanord.netlify.app/)
 
 
 ## 📦 Starta lokalt
