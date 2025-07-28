@@ -25,14 +25,12 @@ Detta projekt skapades som en del av mina studier på Medieinstitutet, och anvä
 
 ![Att göra-lista](./todolist.png)
 
-> Ladda upp din skärmbild i projektmappen och döp den till `screenshot.png`  
-> (eller justera länken ovan om du använder ett annat filnamn)
+
 
 ## 🌐 Live-demo
 
 👉 [Testa appen här](https://dindemo.netlify.app)
 
-_(Byt ut länken ovan när du laddat upp till Netlify!)_
 
 ## 📦 Starta lokalt
 
